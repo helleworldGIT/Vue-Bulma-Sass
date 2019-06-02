@@ -1,4 +1,4 @@
-# Vue-Bulma-Sass
-A template and wiki to create a Vuejs project using Bulma CSS and SASS.
-
-**Please read the wiki to create this yourself.**
+# [About this project](https://github.com/helleworldGIT/Vue-Bulma-Sass/wiki/About-this-project)
+# [Setting up of a Vue project](https://github.com/helleworldGIT/Vue-Bulma-Sass/wiki/Setting-up-the-Vue-project---CLI)
+# [Integrating SASS in Vue](https://github.com/helleworldGIT/Vue-Bulma-Sass/wiki/Implementing-and-using-SASS-on-our-Vue-project)
+# [Integrating Bulma CSS in Vue](https://github.com/helleworldGIT/Vue-Bulma-Sass/wiki/Implementing-Bulma-CSS-into-Vue)
